@@ -8,6 +8,7 @@ I enjoy building practical tools, modernizing legacy applications and experiment
 ## 🚀 About me
 
 - 💼 Junior Developer at **Sulzer GmbH** (Munich) since 2021
+- 🎓 Studying at **FIPU** – Faculty of Informatics, Juraj Dobrila University of Pula
 - 🎓 Certified **Fachinformatiker für Anwendungsentwicklung** (IT specialist for application development), 2025
 - 🔌 Background as an **IT electronics technician**, so I know hardware and networks too
 - 🔄 Migrated a production application from **Ext JS to Angular**
@@ -35,11 +36,13 @@ I enjoy building practical tools, modernizing legacy applications and experiment
 
 | Project | Description | Stack |
 |---|---|---|
-| [GymTrack](https://github.com/mestarr/GymTrack) | Gym management app: member records, workout tracking, full CRUD, filtering and statistics with Chart.js | JavaScript |
-| [CryptoChatPal](https://github.com/mestarr/CryptoChatPal) | AI chatbot prototype for crypto-related questions | Python |
-| [Json-Converter](https://github.com/mestarr/Json-Converter-) | Local converter that turns DOCX or PDF files into JSON | Python |
-| [ITBoberVerwaltung](https://github.com/mestarr/ITBoberVerwaltung) | Management application written in Java | Java |
-| [PHP Lucky Number Generator](https://github.com/mestarr/PHP-Lucky-Nummer-Generator) | Small random number generator in PHP | PHP |
+| [Impetus](https://github.com/mestarr/Impetus) | _Short description coming soon_ | – |
+| [Kaizen Curriculum Bot](https://github.com/mestarr/Kaizen-Curriculum-Bot) | _Short description coming soon_ | – |
+| [Crypto ChatPal](https://github.com/mestarr/CryptoChatPal) | Free crypto-focused AI chatbot with a web UI, live spot prices (CoinGecko) and crypto news headlines from RSS feeds; runs on Groq or fully local with Ollama | Python · FastAPI · LLMs |
+| [ITBoberVerwaltung](https://github.com/mestarr/ITBoberVerwaltung) | Team project: Java application for managing customers and meter readings, with GUI, REST resources and a MariaDB database | Java 21 · Maven · MariaDB |
+| [GitScan-AI](https://github.com/mestarr/GitScan-AII) | Scans GitHub and GitLab repositories via API for leaked secrets, using rule-based detection and optional OpenAI-assisted analysis | Python · OpenAI API |
+| [Json-Converter](https://github.com/mestarr/Json-Converter-) | Local tool that converts PDF and DOCX documents into structured JSON | Python · pdfplumber · python-docx |
+| [Ashfire Ring](https://github.com/mestarr/game.ver1) | Third-person fantasy RPG in the browser with a living open world: towns, fortress cities, a river, a harbor and a quest to a fire mountain | TypeScript |
 | [Snake Game](https://github.com/mestarr/snakegame) | Classic snake game in the browser | JavaScript |
 
 ## 📜 Certifications

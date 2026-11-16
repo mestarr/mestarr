@@ -8,7 +8,7 @@ I enjoy building practical tools, modernizing legacy applications and experiment
 ## 🚀 About me
 
 - 💼 Junior Developer at **Sulzer GmbH** (Munich) since 2021
-- 🎓 Studying at **FIPU** – Faculty of Informatics, Juraj Dobrila University of Pula
+- 🎓 Studying at **FIPU** – Faculty of Informatics, Juraj Dobrila University of Pula https://fipu.unipu.hr/
 - 🎓 Certified **Fachinformatiker für Anwendungsentwicklung** (IT specialist for application development), 2025
 - 🔌 Background as an **IT electronics technician**, so I know hardware and networks too
 - 🔄 Migrated a production application from **Ext JS to Angular**

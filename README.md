@@ -1,6 +1,6 @@
 # Hi, I'm Stjepan 👋
 
-**Junior Software Developer** based in Munich, with a focus on **Java, Groovy, Angular and PHP**.
+**Junior Software Developer** based in Munich, with a focus on **Java, Groovy, Angular, Python**.
 I enjoy building practical tools, modernizing legacy applications and experimenting with AI-assisted development.
 
 ---

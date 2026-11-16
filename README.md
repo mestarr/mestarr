@@ -51,6 +51,3 @@ I enjoy building practical tools, modernizing legacy applications and experiment
 
 I'm open to new opportunities as a **Junior Developer** (remote or Munich).
 Feel free to reach out or check out my repositories!
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mestarr&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mestarr&layout=compact)

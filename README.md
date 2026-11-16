@@ -12,7 +12,7 @@ I enjoy building practical tools, modernizing legacy applications and experiment
 - 🔌 Background as an **IT electronics technician**, so I know hardware and networks too
 - 🔄 Migrated a production application from **Ext JS to Angular**
 - 🤖 Currently exploring **AI tools** and how they can speed up everyday development
-- 🌍 Languages: Croatian (native), German (C1), English
+- 🌍 Languages: Croatian (native), German (C1), English (C1)
 
 ## 🛠️ Tech stack
 

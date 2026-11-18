@@ -37,7 +37,7 @@ I enjoy building practical tools, modernizing legacy applications and experiment
 | Project | Description | Stack |
 |---|---|---|
 | [Impetus](https://github.com/mestarr/Impetus) |Impetus Computational rocket thruster design and virtual testing, in the spirit of [LEAP 71's](https://leap71.com/) Computational Engineering approach: the engine is not drawn, it is computed from an input specification, then verified in a virtual test, then iterated. | – |
-| [Kaizen Curriculum Bot](https://github.com/mestarr/Kaizen-Curriculum-Bot) | _Short description coming soon_ | – |
+| [Kaizen Curriculum Bot](https://github.com/mestarr/Kaizen-Curriculum-Bot) | The agent is trained with Gymnasium and Maskable PPO (PPO with action masking). Before each decision, EvoMazeEnv.action_masks() disables moves into walls, jumps with no valid landing, pit walks without flight fuel, and transforms the bot cannot use — so training never wastes steps on impossible actions. Training goes level by level; checkpoints are saved under saved_models/ and full runs under runs/. | – |
 | [Crypto ChatPal](https://github.com/mestarr/CryptoChatPal) | Free crypto-focused AI chatbot with a web UI, live spot prices (CoinGecko) and crypto news headlines from RSS feeds; runs on Groq or fully local with Ollama | Python · FastAPI · LLMs |
 | [ITBoberVerwaltung](https://github.com/mestarr/ITBoberVerwaltung) | Team project: Java application for managing customers and meter readings, with GUI, REST resources and a MariaDB database | Java 21 · Maven · MariaDB |
 | [GitScan-AI](https://github.com/mestarr/GitScan-AII) | Scans GitHub and GitLab repositories via API for leaked secrets, using rule-based detection and optional OpenAI-assisted analysis | Python · OpenAI API |
